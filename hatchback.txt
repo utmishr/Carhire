@@ -1,0 +1,5 @@
+1 hatchback 0 12/1/2014 H6 8 12 
+2 hatchback 0 17/3/2009 H8 6 23
+4 hatchback 0 24/12/2009 H8 8 36
+5 hatchback 0 2/10/2003 H6 8 37
+6 hatchback 0 2/12/2007 H9 8 32
